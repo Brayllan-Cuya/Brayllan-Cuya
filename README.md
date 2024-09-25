@@ -25,7 +25,7 @@
 <h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya" alt="Brayllan-Cuya" />
+    <a href="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya" alt="Brayllan-Cuya" />
     </a> 
 </p>
 
