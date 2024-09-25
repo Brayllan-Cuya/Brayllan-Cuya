@@ -20,8 +20,10 @@
 <h2 align="center">📊 Estadistica de Racha</h2>
 
 <p align="center">
-    <img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Brayllan-Cuya&" alt="Brayllan-cuya" />
-   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=Brayllan-Cuya&show_icons=true&locale=es" alt="Brayllan-cuya" />
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Brayllan-Cuya&theme=radical&hide_border=false)
+ 
 </p>
 
 <h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
@@ -126,8 +128,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Brayllan-Cuya&theme=radical&hide_border=false)<br/>
+
 
 
 ## 🏆 GitHub Trophies
