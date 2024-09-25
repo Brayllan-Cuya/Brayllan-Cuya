@@ -1,7 +1,7 @@
-                                                                 Bienvenidos
+                                                                 Bienvenidos👋
 
 
-<h1 align="center">Hola👋, me llamo Brayllan </h1
+<h1 align="center">Hola, me llamo Brayllan </h1
 <h9 align="center"></h9>
 
 <p align="left"> 
