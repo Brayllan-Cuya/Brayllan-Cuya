@@ -56,7 +56,11 @@
     </tr>
 </table>
 
-<h5 align="center">👩🏼‍💻 Lenguajes y herramientas </h5>
+<div align="center">
+ 
+ ## 👩🏼‍💻 Lenguajes y herramientas 
+ 
+</div>
 
 <table align="center">
     <tr>
