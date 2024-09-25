@@ -35,7 +35,7 @@
 </div>
 <div align="center">
  
-## ✉ Contactame 📞
+## ✉ contact me 📞
 
 </div>
 <table align="center">
@@ -57,7 +57,7 @@
 
 <div align="center">
  
- ## 👩🏼‍💻 Lenguajes y herramientas 
+ ## 👩🏼‍💻 Languages ​​and tools
  
 </div>
 
@@ -96,8 +96,8 @@
 </table>
 <table align="center">
    <tr>
-      <th>Herramientas</th>
-      <th><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <th>tools</th>
+    <th><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
          </a></th>
       <th><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></th>
@@ -109,7 +109,7 @@
 </table>
 <table align="center">
    <tr>
-      <th>Bibliotecas</th>
+      <th>Libraries</th>
        <th><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
             </a></th>
