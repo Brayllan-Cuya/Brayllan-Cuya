@@ -21,7 +21,7 @@
 
 <div align="center">
  
- ![](https://github-readme-stats.vercel.app/api?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/
+ ![](https://github-readme-stats.vercel.app/api?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
  
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Brayllan-Cuya&theme=radical&hide_border=false)
  
