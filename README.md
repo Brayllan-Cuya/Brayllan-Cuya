@@ -1,8 +1,9 @@
                                                                  Bienvenidos
 
 
-<h1 align="center">Hola👋, me llamo Brayllan</h1
-<h9 align="center">Soy Egresado de Senati, de la carrera Ingenieria de Software con Inteligencia Artificial</h9>
+<h1 align="center">Hola👋, me llamo Brayllan </h1
+<h9 align="center"></h9>
+
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=Brayllan-Cuya&label=Profile%20views&color=0e75b6&style=flat" alt="brayllan-cuya" /> 
 </p>
