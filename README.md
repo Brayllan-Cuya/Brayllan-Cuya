@@ -27,9 +27,11 @@
  
 </p>
 
-<h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
+
 
 <div align="center"> 
+ 
+ ## 🏆 GitHub Trophies
  
  ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -132,7 +134,7 @@
 
 
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
