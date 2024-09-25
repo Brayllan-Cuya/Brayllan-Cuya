@@ -75,9 +75,6 @@
 <table align="center">
    <tr>
       <th>Backend</th>
-          <th><a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-          </a></th>
           <th><a href="https://www.php.net" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a></th>
           <th><a href="https://www.microsoft.com/es-ES/sql-server" target="_blank" rel="noreferrer">
