@@ -24,9 +24,11 @@
 
 <h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
 
+
 <p align="center"> 
-    <a href="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya" alt="Brayllan-Cuya" />
-    </a> 
+ 
+ ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 </p>
 
 <h4 align="center" font-size=30>✉ Contactame 📞</h4>
@@ -110,9 +112,8 @@
 
 <p align="center"> <a href="https://twitter.com/brayan andy" target="blank"><img src="https://img.shields.io/twitter/follow/brayan andy?logo=twitter&style=for-the-badge" alt="brayan andy" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <div align="center">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
