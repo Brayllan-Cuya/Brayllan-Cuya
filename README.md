@@ -111,5 +111,5 @@
 <p align="center"> <a href="https://twitter.com/brayan andy" target="blank"><img src="https://img.shields.io/twitter/follow/brayan andy?logo=twitter&style=for-the-badge" alt="brayan andy" /></a> </p>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Brayllan-Cuya/maurodesouza/output/snake.svg" alt="Snake animation" />
 
