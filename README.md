@@ -108,10 +108,10 @@
       </tr>
 </table>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brayllan-Cuya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
-</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</p>
 
 <p align="center"> <a href="https://twitter.com/brayan andy" target="blank"><img src="https://img.shields.io/twitter/follow/brayan andy?logo=twitter&style=for-the-badge" alt="brayan andy" /></a> </p>
 
