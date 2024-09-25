@@ -25,7 +25,7 @@
 <h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya" alt="Brayllan-Cuya" />
+    <a href="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya" alt="Brayllan-Cuya" />
     </a> 
 </p>
 
@@ -115,7 +115,7 @@
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayllan-Cuya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<img align="center" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Brayllan-Cuya&" alt="Brayllan-cuya" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![]()
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
