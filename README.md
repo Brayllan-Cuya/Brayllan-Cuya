@@ -107,11 +107,11 @@
       <th><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></th>
       </tr>
 </table>
-<p align="center">
+<div align="center">
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayllan-Cuya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</p>
+</div>
 
 <p align="center"> <a href="https://twitter.com/brayan andy" target="blank"><img src="https://img.shields.io/twitter/follow/brayan andy?logo=twitter&style=for-the-badge" alt="brayan andy" /></a> </p>
 
