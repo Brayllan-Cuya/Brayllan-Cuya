@@ -2,20 +2,19 @@
 
 
 <h1 align="center">Me llamo Brayllan, soy egresado de Senati de la carrera "Ingenieria de Software con Inteligencia Artificial" </h1>
-<h9 align="center"></h9>
+
 
 <p align="left" height= 5px >
 
 [![](https://visitcount.itsvg.in/api?id=Brayllan-Cuya&icon=0&color=0)](https://visitcount.itsvg.in)
  
 </p>
+
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy" margin-Color = "Blue">
       <img src="https://media3.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="github gif" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
    </a>
 </p>
-
-</a>
 
 <h2 align="center"> 📊 GitHub Stats</h2>
 
