@@ -36,9 +36,9 @@
  ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
-
-<h4 align="center" font-size=30>✉ Contactame 📞</h4>
-
+<div align="center">
+##✉ Contactame 📞
+</div>
 <table align="center">
     <tr>
        <th><a href="https://twitter.com/brayan" target="blank" margin= 10px> 
