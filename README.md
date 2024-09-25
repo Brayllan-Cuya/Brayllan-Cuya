@@ -4,7 +4,7 @@
 <h1 align="center">Me llamo Brayllan, soy egresado de Senati de la carrera "Ingenieria de Software con Inteligencia Artificial" </h1>
 <h9 align="center"></h9>
 
-<p align="left">
+<p align="left" height= 20px >
 
 [![](https://visitcount.itsvg.in/api?id=Brayllan-Cuya&icon=0&color=0)](https://visitcount.itsvg.in)
  
