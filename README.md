@@ -112,7 +112,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<div align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -120,3 +120,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Brayllan-Cuya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Brayllan-Cuya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
