@@ -27,8 +27,6 @@
  
 </p>
 
-
-
 <div align="center"> 
  
  ## 🏆 GitHub Trophies
@@ -37,7 +35,9 @@
 
 </div>
 <div align="center">
+ 
 ## ✉ Contactame 📞
+
 </div>
 <table align="center">
     <tr>
