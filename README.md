@@ -4,8 +4,10 @@
 <h1 align="center">Me llamo Brayllan, soy egresado de Senati de la carrera "Ingenieria de Software con Inteligencia Artificial" </h1>
 <h9 align="center"></h9>
 
-<p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=Brayllan-Cuya&label=Profile%20views&color=0e75b6&style=flat" alt="brayllan-cuya" /> 
+<p align="left">
+
+[![](https://visitcount.itsvg.in/api?id=Brayllan-Cuya&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 </p>
 <p align="center"> 
    <a href="https://github.com/ryo-ma/github-profile-trophy" margin-Color = "Blue">
@@ -24,12 +26,11 @@
 
 <h3 align="center">🏆 TROFEOS CONSEGUIDOS</h3>
 
-
-<p align="center"> 
+<div align="center"> 
  
  ![](https://github-profile-trophy.vercel.app/?username=Brayllan-Cuya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</p>
+</div>
 
 <h4 align="center" font-size=30>✉ Contactame 📞</h4>
 
@@ -120,6 +121,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brayllan-Cuya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=Brayllan-Cuya&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 </div>
