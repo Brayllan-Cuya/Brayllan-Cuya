@@ -17,7 +17,7 @@
 
 </a>
 
-<h2 align="center">📊 Estadistica de Racha</h2>
+<h2 align="center"> 📊 GitHub Stats</h2>
 
 <div align="center">
  
