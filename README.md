@@ -1,8 +1,6 @@
  <h1 align="center"> Bienvenidos👋 <h1>
 
 
-<h1 align="center">Me llamo Brayllan, soy egresado de Senati de la carrera "Ingenieria de Software con Inteligencia Artificial" </h1>
-
 
 <p align="left" height= 5px >
 
